@@ -1,7 +1,7 @@
 {
-  "name": "Sensible Userbot",
-  "description": "Userbot created by a @CeoWhiteHatCracks and join https://t.me/sensible_userbot for any problems or support",
-  "logo": "https://telegra.ph/file/2f76a5ea2a9ec22ab4284.jpg",
+  "name": "LAUDE KA BOT HAI BHENCHO",
+  "description": "ALI BALI KA CHAMATKAR GHOULS KI MAA LA HUA BALATKAR ",
+  "logo": "https://telegra.ph/file/af49a6e608d658fb12bbd.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/spandey112/SensibleUserbot",
+  "repository": "https://github.com/spammerop/TEST",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -102,10 +102,6 @@
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.chromedriver/bin/chromedriver",
       "required": false
-    },
-    "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot",
-      "value": ""
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
       "description": "Needed for autopic module. A url that is a preview link of your Profile Pic",
