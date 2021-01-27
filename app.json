@@ -25,6 +25,7 @@
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @ZALA_KI_MAA_RANDI_HAI",
       "value": ""
+      "required": false
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
