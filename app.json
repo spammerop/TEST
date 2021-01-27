@@ -22,11 +22,6 @@
       "value": "./userbot/DOWNLOADS/",
       "required": false
     },
-    "CUSTOM_PMPERMIT": {
-      "description": "Enter Custom Middle Pm Permit To Show When Some One PM You.",
-      "value": "",
-      "required": false
-    },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @ZALA_KI_MAA_RANDI_HAI",
       "value": ""
@@ -55,11 +50,11 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
+      "value": "-1001478575363"
     },
     "STRING_SESSION": {
       "description": "Get this value from Termux Python 3",
-      "value": ""
+      "value": "-1001478575363"
     },
     "GITHUB_ACCESS_TOKEN": {
       "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
@@ -86,7 +81,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "709723121",
+      "value": "",
       "required": true
     },
     "CHROME_BIN": {
@@ -116,12 +111,12 @@
 	
 	"SENDER_ID": {
       "description": "Get Your Id From Sangmata Info Bot And Paste Your Permanent Id Here ",
-      "value": "",
+      "value": "1306176520",
       "required": true
     },
 	
 	"Agreement": {
-      "description": "Do You Owe Ceo White hat Cracks And Mr White Who Helped To Create this Awesome bot Turn This True",
+      "description": "KYA AAP NE KABHI ZALA KI MAA CHOODI HAI ONLINE TO ISS VAR KO NA TOUCH KARE This True",
       "value": "true",
       "required": true
     }
