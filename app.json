@@ -24,65 +24,19 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @ZALA_KI_MAA_RANDI_HAI",
-      "value": "ZALA KA BAAP "
+      "value": "ZALA KA BAAP"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": "1754367"
     },
-    "REM_BG_API_KEY": {
-      "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "",
-      "required": false
-    },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": "231b8cc6cca12ee51a85cf543321f476"
     },
-    "PLUGIN_CHANNEL": {
-      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001478575363"
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001478575363"
-    },
     "STRING_SESSION": {
       "description": "Get this value from Termux Python 3",
       "value": ""
-    },
-    "GITHUB_ACCESS_TOKEN": {
-      "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
-      "value": "",
-      "required": false
-    },
-    "GIT_REPO_NAME": {
-      "description": "Your repo name Example: No Need For this, but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "",
-      "required": false
-    },
-    "HEROKU_API_KEY": {
-      "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "later"
-    },
-    "HEROKU_APP_NAME": {
-      "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "LATER"
-    },
-    "SUDO_USERS": {
-      "description": "Makes your acc and bot stable",
-      "value": "1529675020",
-      "required": true
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -99,23 +53,17 @@
       "value": "",
       "required": false
     },
-    "OPEN_WEATHER_MAP_APPID": {
-      "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
-      "required": false
-    },
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "",
       "required": false
     },
-	
-	"SENDER_ID": {
+    "SENDER_ID": {
       "description": "Get Your Id From Sangmata Info Bot And Paste Your Permanent Id Here ",
       "value": "1306176520",
       "required": true
     },
-	
-	"Agreement": {
+    "Agreement": {
       "description": "KYA AAP NE KABHI ZALA KI MAA CHOODI HAI ONLINE TO ISS VAR KO NA TOUCH KARE This True",
       "value": "true",
       "required": true
