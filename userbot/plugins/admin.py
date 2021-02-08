@@ -24,6 +24,7 @@ from telethon.tl.types import (ChannelParticipantsAdmins, ChatAdminRights,
 
 from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot 
 from userbot.utils import register, errors_handler
+from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
 # =================== CONSTANT ===================
@@ -133,7 +134,7 @@ async def promote(promt):
     await promt.edit("`Promoting...`")
     user, rank = await get_user_from_event(promt)
     if not rank:
-        rank = "Sensible"  # Just in case.
+        rank = "GANGSTER ARMY"  # Just in case.
     if user:
         pass
     else:
@@ -143,7 +144,7 @@ async def promote(promt):
     try:
         await promt.client(
             EditAdminRequest(promt.chat_id, user.id, new_rights, rank))
-        await promt.edit("`{DEFAULTUSER} : You Have Been Promoted :D Do Your Work Sincerly `")
+        await promt.edit("{DEFAULTUSER} : **You Have Been Promoted** :D **Do Your Work Sincerly**")
 
     # If Telethon spit BadRequestError, assume
     # we don't have Promote permission
